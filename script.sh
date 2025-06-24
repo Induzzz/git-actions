@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "print the value"
+echo "print the value as indu"
 
 
